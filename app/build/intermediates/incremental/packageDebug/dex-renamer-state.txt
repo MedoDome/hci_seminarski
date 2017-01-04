@@ -1,0 +1,7 @@
+#Wed Jan 04 10:12:28 CET 2017
+base.0=C\:\\Users\\arc\\Documents\\HCIIB130035\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4685f2226641430bc185ce2ac364abc74519d248
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\arc\\Documents\\HCIIB130035\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a16ba6ee55419eeec711c8ebc7ac773abeb3f80f\\classes.dex
+base.1=C\:\\Users\\arc\\Documents\\HCIIB130035\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a16ba6ee55419eeec711c8ebc7ac773abeb3f80f
+file.0=C\:\\Users\\arc\\Documents\\HCIIB130035\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4685f2226641430bc185ce2ac364abc74519d248\\classes.dex
